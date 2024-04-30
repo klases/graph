@@ -1,3 +1,3 @@
-module github.com/dominikbraun/graph
+module github.com/klases/graph
 
 go 1.18
